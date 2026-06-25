@@ -11,8 +11,8 @@
 
 require 'csv'
 
-input_file = './Fil1_innan_numerering.csv'
-output_file = './Fil1_numrering_klar.csv'
+input_file = './csv/UBB-xx.csv'
+output_file = './csv/UBB-yy.csv'
 #Same input and output filename should be avoided
 
 aliquot = 0 #this will increment before first assignment
